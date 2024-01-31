@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nbdev = "*"
+langchain = "*"
+langchain-openai = "*"
+langgraph = "*"
+langchain-community = "*"
+langchain-core = "*"
+openai = "*"
+instructor = "*"
+pydantic = "*"
+
+[dev-packages]
+jupyter = "*"
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.11"

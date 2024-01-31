@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "langGraph_swarm"
+  site-url: "https://Dmaturana81.github.io/langGraph_swarm"
+  description: "A framework that simoulates the Agency swarm library using langgraph"
+  repo-branch: main
+  repo-url: "https://github.com/Dmaturana81/langGraph_swarm"
