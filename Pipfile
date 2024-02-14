@@ -13,9 +13,15 @@ langchain-core = "*"
 openai = "*"
 instructor = "*"
 pydantic = "*"
+python-dotenv = "*"
 
 [dev-packages]
 jupyter = "*"
+xmltodict = "*"
+gql = "==3.4.1"
+gpl = "*"
+requests-toolbelt = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.10"
